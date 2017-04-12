@@ -1,2 +1,2 @@
-# 0xygen1.github.io
-ggwp
+# AuthSys
+Authentification system by example project.
